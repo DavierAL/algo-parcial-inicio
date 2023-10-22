@@ -1,0 +1,12 @@
+{
+  "name": "algo-parcial-inicio",
+  "version": "1.0.0",
+  "description": "Parcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Davier Lopez",
+  "license": "ISC",
+  "type": "module"
+}
